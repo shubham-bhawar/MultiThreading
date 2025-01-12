@@ -8,6 +8,7 @@ public class BankAccount {
 
 
     private  int balance = 100;
+    private  String name = "Shubham";
 
 
     //Reentrantlock is extrinsic lock ;
