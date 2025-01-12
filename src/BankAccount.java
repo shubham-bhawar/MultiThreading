@@ -6,6 +6,7 @@ import java.util.concurrent.locks.ReentrantReadWriteLock;
 
 public class BankAccount {
 
+    // write custom threads with help of executor service
 
     private  int balance = 100;
     private  String name = "Shubham";
